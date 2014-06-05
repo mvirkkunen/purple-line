@@ -1,4 +1,8 @@
 purple-line
 ===========
 
-libpurple (Pidgin) plugin for LINE by Naver
+libpurple (Pidgin, Finch) protocol plugin for LINE (http://line.me/) by Naver / LINE Corporation.
+
+This repository has moved to:
+
+http://altrepo.eu/git/purple-line.git/
